@@ -1,0 +1,8 @@
+const myList = [
+  ['dog',2],
+  ['fox',3],
+  ['wolf',4],
+  ['cat',6],
+  ['mouse',5]
+];
+console.log(myList);
